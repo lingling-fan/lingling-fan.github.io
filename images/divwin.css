@@ -1,0 +1,42 @@
+
+.divwintitbg{
+  background-image:url(../images/divwin/pop_titbg.gif);
+}
+.divwintitarrow{
+  background-image:url(../images/divwin/pop_arrow.gif);
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+.divwinclose{
+  cursor:pointer;
+  background-image:url(../images/divwin/cha.gif);
+  background-repeat:no-repeat;
+  background-position:center center;
+}
+.divwinmaintable{
+  background-color:"#666699";
+}
+
+.divwintitle{
+  font-weight:bold;
+  cursor:move;
+}
+
+.divwinstatebar{
+  background-color:#E4E4E4;
+}
+.divwinls{
+  background-image:url(../images/divwin/ls.gif);
+  cursor:nw-resize;
+}
+
+.button {	
+	border: 1px solid #999999;
+	padding: 1px 10px 0px;
+	font-size: 9pt;
+	cursor: hand;
+	background-repeat: repeat-x;
+	height: 20px;
+
+}
+
